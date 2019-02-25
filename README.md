@@ -1,2 +1,1 @@
-# ibm-connections
-ibm-connections POC
+# ibm-connections readme
