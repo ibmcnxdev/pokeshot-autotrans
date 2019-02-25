@@ -17,7 +17,7 @@
           "smz-translate.css"
         ],
         "include-repo":{
-          "name": "ibm-connections-translation"
+          "name": "pokeshot-autotrans"
         },
         "cache-headers": {
           "cache-control": "max-age=0"
