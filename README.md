@@ -6,5 +6,5 @@ Administrators can control allowed languages and available functionalities.
 Simplify the creation of multilingual documents using automated translations or even display content on the fly
 Supported translation services: Google Translator, Microsoft Translation, LionBridge GeoFluent
 Already convinced? Any questions, regarding our products? Please do not hesitate to contact us at:
-sales@socialmediazolutions.com
+sales@pokeshot.com
 
